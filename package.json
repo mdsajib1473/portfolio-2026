@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-2026",
+  "version": "1.0.0",
+  "description": "Portfolio landing page - Md Sajib Ahammad",
+  "type": "module",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "node server.js",
+    "install:all": "npm install && cd client && npm install"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
